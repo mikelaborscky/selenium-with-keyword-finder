@@ -10,7 +10,7 @@ import time
 gecko_path = "lokasi folder geckodriver.exe"  # Ubah path ke lokasi GeckoDriver di sistem Anda
 base_url = "url target"  # Bagian tetap dari URL
 start_page = 1  # Halaman awal untuk memulai pemindaian
-keyword_target = "target wallet"  # Keyword yang ingin dicari
+keyword_target = "target keyword"  # Keyword yang ingin dicari
 
 # Inisialisasi WebDriver
 service = Service(gecko_path)
